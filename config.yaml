@@ -1,0 +1,4 @@
+api_url: "https://official-joke-api.appspot.com/random_joke"
+log_file: "api.log"
+s3_bucket: "kelechi-api-logs"
+s3_folder: "daily-api-data/"

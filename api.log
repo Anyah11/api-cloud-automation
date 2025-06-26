@@ -1,0 +1,42 @@
+2025-06-26 13:42:55,812 - root - INFO - API call successful: https://official-joke-api.appspot.com/random_joke
+2025-06-26 13:42:55,813 - root - INFO - API response: {'type': 'general', 'setup': "Due to complaints, Hawaii passed a law where you're not allowed to laugh above a certain decibel.", 'punchline': 'You can only use a low ha.', 'id': 403}
+2025-06-26 13:43:25,992 - root - INFO - API call successful: https://official-joke-api.appspot.com/random_joke
+2025-06-26 13:43:25,992 - root - INFO - API response: {'type': 'general', 'setup': 'Why is peter pan always flying?', 'punchline': 'Because he neverlands', 'id': 54}
+2025-06-26 13:44:05,315 - root - INFO - API call successful: https://official-joke-api.appspot.com/random_joke
+2025-06-26 13:44:05,315 - root - INFO - API response: {'type': 'general', 'setup': 'Why is seven bigger than nine?', 'punchline': 'Because seven ate nine.', 'id': 377}
+2025-06-26 14:27:15,782 - root - INFO - API call successful: https://official-joke-api.appspot.com/random_joke
+2025-06-26 14:27:15,783 - root - INFO - API response: {'type': 'general', 'setup': 'Did you hear about the Mexican train killer?', 'punchline': 'He had loco motives', 'id': 91}
+2025-06-26 14:27:15,801 - botocore.credentials - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-06-26 14:27:16,467 - root - ERROR - API call failed: Failed to upload output.json to kelechi-api-logs/daily-api-data/output.json: An error occurred (NoSuchBucket) when calling the PutObject operation: The specified bucket does not exist
+2025-06-26 14:27:25,229 - root - INFO - API call successful: https://official-joke-api.appspot.com/random_joke
+2025-06-26 14:27:25,229 - root - INFO - API response: {'type': 'programming', 'setup': 'Why was the font always tired?', 'punchline': 'It was always bold.', 'id': 443}
+2025-06-26 14:27:25,250 - botocore.credentials - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-06-26 14:27:25,792 - root - ERROR - API call failed: Failed to upload output.json to kelechi-api-logs/daily-api-data/output.json: An error occurred (NoSuchBucket) when calling the PutObject operation: The specified bucket does not exist
+2025-06-26 14:28:24,675 - root - INFO - API call successful: https://official-joke-api.appspot.com/random_joke
+2025-06-26 14:28:24,676 - root - INFO - API response: {'type': 'general', 'setup': 'Why do wizards clean their teeth three times a day?', 'punchline': 'To prevent bat breath!', 'id': 354}
+2025-06-26 14:28:24,699 - botocore.credentials - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-06-26 14:28:25,308 - root - INFO - Uploaded output.json to S3 bucket: kelechi-api-logs
+2025-06-26 14:28:25,457 - root - INFO - Uploaded output.yaml to S3 bucket: kelechi-api-logs
+2025-06-26 14:28:55,605 - root - INFO - API call successful: https://official-joke-api.appspot.com/random_joke
+2025-06-26 14:28:55,605 - root - INFO - API response: {'type': 'general', 'setup': 'Where was the Declaration of Independence signed?', 'punchline': 'At the bottom! ', 'id': 293}
+2025-06-26 14:28:55,969 - root - INFO - Uploaded output.json to S3 bucket: kelechi-api-logs
+2025-06-26 14:28:56,117 - root - INFO - Uploaded output.yaml to S3 bucket: kelechi-api-logs
+2025-06-26 14:49:49,560 - root - INFO - API call successful: https://official-joke-api.appspot.com/random_joke
+2025-06-26 14:49:49,562 - root - INFO - API response: {'type': 'general', 'setup': 'Why does Waldo only wear stripes?', 'punchline': "Because he doesn't want to be spotted.", 'id': 361}
+2025-06-26 14:49:49,580 - botocore.credentials - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-06-26 14:49:49,800 - root - ERROR - API call failed: [Errno 2] No such file or directory: 'output_2025-06-26T14-49-49.json'
+2025-06-26 14:52:48,899 - root - INFO - API call successful: https://official-joke-api.appspot.com/random_joke
+2025-06-26 14:52:48,901 - root - INFO - API response: {'type': 'general', 'setup': "I got hit in the head by a soda can, but it didn't hurt that much...", 'punchline': 'It was a soft drink.', 'id': 68}
+2025-06-26 14:52:48,956 - botocore.credentials - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-06-26 14:52:50,024 - root - INFO - Uploaded output_2025-06-26T14-52-48.json, output_2025-06-26T14-52-48.yaml, and log file to S3.
+2025-06-26 14:53:20,194 - root - INFO - API call successful: https://official-joke-api.appspot.com/random_joke
+2025-06-26 14:53:20,195 - root - INFO - API response: {'type': 'general', 'setup': 'What did the janitor say when he jumped out of the closet?', 'punchline': 'Supplies!', 'id': 424}
+2025-06-26 14:53:20,835 - root - INFO - Uploaded output_2025-06-26T14-53-20.json, output_2025-06-26T14-53-20.yaml, and log file to S3.
+2025-06-26 14:57:54,851 - root - INFO - API call successful: https://official-joke-api.appspot.com/random_joke
+2025-06-26 14:57:54,852 - root - INFO - API response: {'type': 'general', 'setup': 'what do you call a dog that can do magic tricks?', 'punchline': 'a labracadabrador', 'id': 200}
+2025-06-26 14:57:54,877 - botocore.credentials - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-06-26 14:57:55,959 - root - INFO - Uploaded output_2025-06-26T14-57-54.json, output_2025-06-26T14-57-54.yaml, and log file to S3.
+2025-06-26 14:58:58,015 - root - INFO - API call successful: https://official-joke-api.appspot.com/random_joke
+2025-06-26 14:58:58,016 - root - INFO - API response: {'type': 'general', 'setup': 'Why did the opera singer go sailing?', 'punchline': 'They wanted to hit the high Cs.', 'id': 332}
+2025-06-26 14:58:58,033 - botocore.credentials - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-06-26 14:58:58,883 - root - INFO - Uploaded output_2025-06-26T14-58-58.json, output_2025-06-26T14-58-58.yaml, and log file to S3.
