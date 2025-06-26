@@ -16,8 +16,7 @@ This project fetches live API data, saves it in JSON and YAML formats, uploads i
 
 ✅ Fetches API data every 30 seconds  
 ✅ Saves as `.json` and `.yaml`  
-✅ Uploads to S3 with timestamped filenames  
-✅ Sends email alerts on failure (via AWS SES)  
+✅ Uploads to S3 with timestamped filenames    
 ✅ Clean, reusable config (`config.yaml`)  
 
 ## 🛠 Setup
